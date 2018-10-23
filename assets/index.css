@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: transparent !important;
+}
+.footer {
+  position: absolute !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  height: 60px !important;
+  line-height: 60px !important;
+  background-color: #f5f5f5 !important;
+}
